@@ -1,6 +1,12 @@
 # courseapplandingpage
 
-A new Flutter project.
+تطبيق الياسر 
+تم استخدام المكتبات التالية:
+shared_preferences: ^2.0.5
+  bottom_navy_bar: ^6.0.0
+  font_awesome_flutter: ^9.2.0
+  carousel_slider: ^4.0.0
+  url_launcher: ^6.0.12
 
 ## Getting Started
 
